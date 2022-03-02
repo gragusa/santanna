@@ -3,7 +3,7 @@ Add here global page variables to use throughout your
 website.
 The website_* must be defined for the RSS to work
 -->
-@def website_title = "Quantitative Economics for Business"
+@def website_title = "Time Series, Ph.D. Sant'Anna"
 @def website_descr = "Class Web Page"
 @def website_url   = "https://gragusa.org/santanna"
 
@@ -11,7 +11,7 @@ The website_* must be defined for the RSS to work
 
 @def mintoclevel = 2
 
-@def prepath = "QEFB"
+@def prepath = "santanna"
 <!--
 Add here files or directories that should be ignored by Franklin, otherwise
 these files might be copied and, if markdown, processed by Franklin which
